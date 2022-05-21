@@ -1,0 +1,3 @@
+Express Server is running at port 5000
+(node:58570) DeprecationWarning: Listening to events on the Db class has been deprecated and will be removed in the next major version.
+MongoDB Atlas connected successfully : cluster0
